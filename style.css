@@ -4,7 +4,14 @@ body {
 
 
 #cabecalho {
-    background-color: red;
+    background-color: green;
     top: 0px;
+    left: 0px;
+    right: 0px;
     position: fixed;
+}
+
+#minha_foto {
+    width: 230px;
+    margin-top: 100px;
 }
